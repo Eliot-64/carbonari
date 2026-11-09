@@ -1,0 +1,10 @@
+{
+  "name": "proxy-cors",
+  "version": "1.0.0",
+  "description": "Un proxy CORS simple",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
