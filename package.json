@@ -4,6 +4,7 @@
   "description": "Un proxy CORS simple",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Build OK'",
     "start": "node server.js"
   },
   "dependencies": {}
